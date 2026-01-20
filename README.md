@@ -207,8 +207,3 @@ pyinstaller --noconfirm --onefile --windowed --name "MSG PDF Extractor" msg_pdf_
 Made by **ACK**
 
 ---
-
-If you want, I can also generate:
-✅ a matching `LICENSE` file (MIT)
-✅ a short “Troubleshooting” section (common errors + fixes)
-✅ a “Project Structure” section for GitHub cleanliness
